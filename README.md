@@ -3,8 +3,8 @@
 > 참고: [👨🏻‍💻👩🏻‍💻 iOS 면접에 나올 질문들 총 정리](https://github.com/JeaSungLEE/iOSInterviewquestions)에 기재된 리스트를 토대로 공부하는 Repository입니다.
 
 ### 📌 Rule Setting
-    ◦ 일주일 기준으로 최소 2개이상 공부해서 올리기  
-    ◦ 문제 추가할거 있으면 추가해주세용!!   
+    ◦ 일주일 기준으로 최소 2개 이상 공부해서 올리기
+    ◦ 문제 추가할 거 있으면 추가해주세용!!
 
 <hr/>
 
@@ -52,7 +52,7 @@
 |오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)| - | - |
 |hugging, resistance에 대해서 설명하시오.| - | - |
 |Intrinsic Size에 대해서 설명하시오.| - | - |
-|스토리보드를 이용했을때의 장단점을 설명하시오.| - | - |
+|스토리보드를 이용했을 때의 장단점을 설명하시오.| [🙆🏻‍♀️](https://suzumsz.github.io/2022/04/25/Swift/Storyboard/) | - |
 |Safearea에 대해서 설명하시오.| - | - |
 |Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.| - | - |
 
