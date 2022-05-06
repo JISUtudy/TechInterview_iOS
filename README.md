@@ -88,7 +88,7 @@
 
 |질문|수정|지석|
 |:----------:|:-----:|:-----:|
-|ARC란 무엇인지 설명하시오.| - | - |
+|ARC란 무엇인지 설명하시오.| - | [🙆🏻‍♂️](https://jiseok-zip.tistory.com/entry/iOSStrong과-weak-참조-방식?category=905419) |
 |Retain Count 방식에 대해 설명하시오.| - | - |
 |Strong 과 Weak 참조 방식에 대해 설명하시오.| - | [🙆🏻‍♂️](https://jiseok-zip.tistory.com/entry/iOSStrong과-weak-참조-방식?category=905419) |
 |ARC 대신 Manual Reference Count 방식으로 구현할 때 꼭 사용해야 하는 메서드들을 쓰고 역할을 설명하시오.| - | - |
