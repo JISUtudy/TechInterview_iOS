@@ -64,7 +64,7 @@
 
 |질문|수정|지석|
 |:----------:|:-----:|:-----:|
-|Optional이란 무엇인지 설명하시오.| - | - |
+|Optional이란 무엇인지 설명하시오.| [🙆🏻‍♀️](https://suzumsz.tistory.com/50) | - |
 |Fast Enumeration 이란 무엇인지 설명하시오. | - | - |
 |Class와 Struct의 차이점에 대해 설명하시오. | [🙆🏻‍♀️](https://suzumsz.tistory.com/49) | - |
 |Struct가 무엇이고 어떻게 사용하는지 설명하시오.| [🙆🏻‍♀️](https://suzumsz.tistory.com/51) | - |
