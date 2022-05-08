@@ -140,5 +140,6 @@
 
 |질문|수정|지석|
 |:----------:|:-----:|:-----:|
-|Reactive Programming이 무엇인지 설명하시오.| - | - |
-|RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.| - | - |
+|Reactive Programming이 무엇인지 설명하시오.| - | [🙆🏻‍♂️](https://jiseok-zip.tistory.com/entry/SwiftReactive-Programming) |
+|RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.| - |  |
+
