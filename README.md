@@ -1,12 +1,15 @@
 # Tech Interview Study
 > 기간: 2022.04.25 ~ ing  
-> 참고: [👨🏻‍💻👩🏻‍💻 iOS 면접에 나올 질문들 총 정리](https://github.com/JeaSungLEE/iOSInterviewquestions)에 기재된 리스트를 토대로 공부하는 Repository입니다.
+> 참고: [👩🏻‍💻👨🏻‍💻 iOS 면접에 나올 질문들 총 정리](https://github.com/JeaSungLEE/iOSInterviewquestions)에 기재된 리스트를 토대로 공부하는 Repository입니다.
 
 ### 📌 Rule Setting
     ◦ 일주일 기준으로 최소 1개 이상 공부해서 올리기
     ◦ 문제 추가할 거 있으면 추가해주세용!!
-    ◦ 리드미 수정 → [Docs] 커밋메시지
-    ◦ 문제해결 → [Docs] 문제이름
+
+```
+◦ [Docs] 커밋메시지 → 리드미 수정
+◦ [Docs] 문제이름 → 문제 해결 
+```
 
 <hr/>
 
@@ -14,8 +17,8 @@
 
 |질문|수정|지석|
 | :-------: | :-----: | :-----: |
-|Bounds 와 Frame 의 차이점을 설명하시오.| - | [🙆🏻‍♂️](https://jiseok-zip.tistory.com/entry/iOSFrame과-Bounds의-차이?category=905419) |
-|실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.| - | - |
+|Bounds와 Frame의 차이점을 설명하시오.| [🙆🏻‍♀️](https://suzumsz.tistory.com/38) | [🙆🏻‍♂️](https://jiseok-zip.tistory.com/entry/iOSFrame과-Bounds의-차이?category=905419) |
+|실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.| [🙆🏻‍♀️](https://suzumsz.tistory.com/55) | - |
 |앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?| - | - |
 |상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.| - | - |
 |scene delegate에 대해 설명하시오.| - | - |
@@ -68,9 +71,9 @@
 |Fast Enumeration 이란 무엇인지 설명하시오. | - | - |
 |Class와 Struct의 차이점에 대해 설명하시오. | [🙆🏻‍♀️](https://suzumsz.tistory.com/49) | - |
 |Struct가 무엇이고 어떻게 사용하는지 설명하시오.| [🙆🏻‍♀️](https://suzumsz.tistory.com/51) | - |
-|Instance 메서드와 Type 메서드의 차이점을 설명하시오.| - | - |
+|Instance 메서드와 Type 메서드의 차이점을 설명하시오.| [🙆🏻‍♀️](https://suzumsz.tistory.com/53) | - |
 |Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.| - | - |
-|Singleton Pattern에 대해 설명하시오.| - | - |
+|Singleton Pattern에 대해 설명하시오.| [🙆🏻‍♀️](https://suzumsz.tistory.com/54) | - |
 |KVO 동작 방식에 대해 설명하시오.| - | - |
 |Delegates와 Notification 방식의 차이점에 대해 설명하시오.| - | - |
 |멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.| - | - |
@@ -142,6 +145,5 @@
 
 |질문|수정|지석|
 |:----------:|:-----:|:-----:|
-|Reactive Programming이 무엇인지 설명하시오.| - | [🙆🏻‍♂️](https://jiseok-zip.tistory.com/entry/SwiftReactive-Programming) |
-|RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.| - |  |
-
+|Reactive Programming이 무엇인지 설명하시오.| - | - |
+|RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.| - | - |
