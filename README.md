@@ -3,7 +3,7 @@
 > 참고: [👩🏻‍💻👨🏻‍💻 iOS 면접에 나올 질문들 총 정리](https://github.com/JeaSungLEE/iOSInterviewquestions)에 기재된 리스트를 토대로 공부하는 Repository입니다.
 
 ### 📌 Rule Setting
-    ◦ 일주일 기준으로 최소 2개 이상 공부해서 올리기
+    ◦ 일주일 기준으로 최소 1개 이상 공부해서 올리기
     ◦ 문제 추가할 거 있으면 추가해주세용!!
 
 ```
